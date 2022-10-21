@@ -1,0 +1,6 @@
+com\cod3r\gerenciadorfuncionarios\model\Funcionario.class
+com\cod3r\gerenciadorfuncionarios\model\repository\FuncionarioRepository.class
+com\cod3r\gerenciadorfuncionarios\controller\FuncionarioController.class
+com\cod3r\gerenciadorfuncionarios\controller\HomeController.class
+com\cod3r\gerenciadorfuncionarios\model\FuncionarioSetor.class
+com\cod3r\gerenciadorfuncionarios\GerenciadorFuncionariosApplication.class
