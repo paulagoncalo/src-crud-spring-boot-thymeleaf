@@ -1,4 +1,5 @@
 # employee-management
 Spring Boot + Thymeleaf + Bootstrap + MySQL 
-![Alt text](/img1.jpg?raw=true "Title")
-![Alt text](/img2.jpg?raw=true "Title")
+
+Projeto para demonstração de criação de um crud utilizando Spring e Thymeleaf. Este projeto tem apenas a função de acadêmica pensado em ser construído de forma simples apenas como demonstração introdutória do framework sem preocução [ainda] com boas práticas e segurança da aplicação 
+
